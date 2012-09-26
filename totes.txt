@@ -14,6 +14,7 @@ awes
 	fawes [fing awesome]
 awk
 	awks
+beaut
 brill
 brute
 cray
