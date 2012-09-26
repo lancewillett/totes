@@ -24,6 +24,7 @@ duh
 emosh
 	motes
 exc
+geni [genius]
 jeal [jealous]
 legit
 nabes [neighborhood|neighbor]
