@@ -1,3 +1,9 @@
+## Legend
+
+word [explanation]
+	alternate usage 1
+	alternate usage 2
+
 ## totes ...
 
 adorbs
@@ -18,11 +24,9 @@ duh
 emosh
 	motes
 exc
-jeal
-	[jealous]
+jeal [jealous]
 legit
-nabes
-	[neighborhood|neighbor]
+nabes [neighborhood|neighbor]
 obvi
 perf
 preps
@@ -30,11 +34,9 @@ preps
 presh
 ridic
 ridoncs
-sui
-	[suicidal]
+sui [suicidal]
 unbelievs
-vom
-	[vomit]
+vom [vomit]
 
 ## Examples
 
