@@ -27,7 +27,9 @@ exc
 jeal [jealous]
 legit
 nabes [neighborhood|neighbor]
-obvi
+obv
+	obvs
+	obvi
 perf
 preps
 	[prepared]
