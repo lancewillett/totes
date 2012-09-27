@@ -20,11 +20,12 @@ brute
 cray
 creep
 deff
-devo
+devo [devastated]
 duh
+educash
 emosh
 	motes
-exc
+exc [excited]
 geni [genius]
 jeal [jealous]
 legit
@@ -33,8 +34,7 @@ obv
 	obvs
 	obvi
 perf
-preps
-	[prepared]
+preps [prepared]
 presh
 ridic
 ridoncs
@@ -44,6 +44,6 @@ vom [vomit]
 
 ## Examples
 
-- Totes deff obvi sick.
+- Not feeling good? Totes deff obvi sick.
 - Twitter totes obvi deff been educash, though totes cray and awk at times.
 - That bro is totes my nabes.
