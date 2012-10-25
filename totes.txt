@@ -33,9 +33,11 @@ nabes [neighborhood|neighbor]
 obv
 	obvs
 	obvi
+ofish
 perf
 preps [prepared]
 presh
+profesh
 ridic
 ridoncs
 sui [suicidal]
