@@ -6,7 +6,9 @@ word [explanation]
 
 ## totes ...
 
+abbrevs
 adorbs
+addish
 appropes
 	inappropes
 avail
@@ -17,18 +19,25 @@ awk
 beaut
 brill
 brute
+comfs
 cray
 creep
 deff
 devo [devastated]
 duh
 educash
+effish
 emosh
 	motes
 exc [excited]
+excluse [exclusive]
+fames
 geni [genius]
+hilares
+impress
 jeal [jealous]
 legit
+mcgoats
 nabes [neighborhood|neighbor]
 obv
 	obvs
@@ -40,11 +49,13 @@ poss
 presh
 probs
 profesh
+relig
 ridic
 ridoncs
 sui [suicidal]
 unbelievs
 vom [vomit]
+whatevs
 
 ## Examples
 
