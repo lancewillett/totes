@@ -40,7 +40,9 @@ impress
 jeal [jealous]
 legit
 magnif
-mcgoats
+mcgoats [singular]
+	my goat [singular]
+	my goats [plural]
 nabes [neighborhood|neighbor]
 obv
 	obvs
