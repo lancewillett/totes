@@ -33,6 +33,7 @@ emosh
 exc [excited]
 excluse [exclusive]
 fab
+fave
 fames
 geni [genius]
 hilares
@@ -67,3 +68,4 @@ whatevs
 - Not feeling good? Totes deff obvi sick.
 - Twitter totes obvi deff been educash, though totes cray and awk at times.
 - That bro is totes my nabes.
+- 
