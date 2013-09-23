@@ -49,6 +49,7 @@ obv
 	obvs
 	obvi
 ofish
+presidential [That parking spot was presidential]
 perf
 preps [prepared]
 poss
