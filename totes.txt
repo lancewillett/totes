@@ -49,6 +49,7 @@ obv
 	obvs
 	obvi
 ofish
+pres [presidential]
 perf
 preps [prepared]
 poss
